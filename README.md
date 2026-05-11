@@ -15,7 +15,6 @@ Passionate about building scalable web, mobile & AI-powered applications using m
 
 - 🔭 Currently working on **Full Stack, Mobile & AI Projects**
 - 🌱 Learning more about **Cloud, DevOps & Scalable AI Systems**
-- 🤖 Specialized in **LLM Integration & AI Assistants**
 - 💬 Ask me about **React, Laravel, FastAPI, Python, JavaScript, PHP, Java, PostgreSQL, MySQL**
 - 📫 Reach me at: **makhlouf.sanad@gmail.com**
 - ⚡ Fun fact: I love transforming complex ideas into real digital experiences
