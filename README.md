@@ -139,12 +139,11 @@ Stripe API • Tabby • Tamara
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanadmakhlouf&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanadmakhlouf&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
-
 ---
 
 ## 🔥 GitHub Streak
