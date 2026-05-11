@@ -1,61 +1,108 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24225
-Fork on GitHub
-8341
+<div align="center">
 
-back to edit
+# Hey 👋, I'm Sanad Makhlouf
 
-copy-markdown
+### 💻 Software Engineer & Full Stack Developer  
+Passionate about building scalable web & mobile applications with modern technologies.
 
-download markdown
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;React+%7C+Laravel+%7C+Java;Mobile+%26+Web+Apps;Always+learning+new+technologies" />
 
-download backup
+</div>
 
-preview
-<h1 align="center">Hi 👋, I'm sanad makhlouf</h1>
-<h3 align="center">software engineer and full stack developer</h3>
+---
 
-- 💬 Ask me about **react, c++, laravel, js ,php ,mysql,java**
+## 🚀 About Me
 
-- 📫 How to reach me **makhlouf.sanad@gmail.com**
+- 🔭 Currently working on **Full Stack & Mobile Projects**
+- 🌱 Learning more about **Cloud & DevOps**
+- 💬 Ask me about **React, Laravel, JavaScript, PHP, Java, MySQL, C++**
+- 📫 Reach me at: **makhlouf.sanad@gmail.com**
+- ⚡ Fun fact: I love transforming ideas into real digital experiences
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanad makhlouf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanad makhlouf" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+## 🌐 Connect With Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanadmakhlouf&show_icons=true&locale=en&layout=compact" alt="sanadmakhlouf" /></p>
+<div align="center">
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me a Coffee
+<a href="https://linkedin.com/in/sanad-makhlouf" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=php,laravel,java,python,nodejs" />
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=android,react" />
+
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+
+### Tools & DevOps
+<img src="https://skillicons.dev/icons?i=docker,git,aws,linux,postman" />
+
+### Others
+<img src="https://skillicons.dev/icons?i=cpp,qt" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanadmakhlouf&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanadmakhlouf&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sanadmakhlouf&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanadmakhlouf&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## ✨ Visitor Count
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sanadmakhlouf&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 "Code. Create. Innovate."
+
+</div>
