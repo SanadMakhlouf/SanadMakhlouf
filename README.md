@@ -1,173 +1,113 @@
-<div align="center">
+# 👋 Hi, I'm Sanad Makhlouf
 
-# Hey 👋, I'm Sanad Makhlouf
+### Full Stack Developer | JavaScript · React · Node.js · Laravel
 
-### 💻 Software Engineer • Full Stack Developer • AI Integration Enthusiast  • data engineer
-Passionate about building scalable web, mobile & AI-powered applications using modern technologies.
+I build web applications that connect user-facing interfaces, business logic, databases, and APIs. I'm currently pursuing a Master's degree in Computer Science and Mobility at Université de Haute-Alsace, and looking for a 6-month end-of-studies internship starting in February 2027.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;React+%7C+Laravel+%7C+FastAPI;AI+%26+LLM+Integration;Mobile+%26+Web+Applications;Always+learning+new+technologies" />
+I'm particularly interested in **Full Stack development, API design, AI integration, and building practical software that solves real problems.**
 
-</div>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on **Full Stack, Mobile & AI Projects**
-- 🌱 Learning more about **Cloud, DevOps & Scalable AI Systems**
-- 💬 Ask me about **React, Laravel, FastAPI, Python, JavaScript, PHP, Java, PostgreSQL, MySQL**
-- 📫 Reach me at: **makhlouf.sanad@gmail.com**
-- ⚡ Fun fact: I love transforming complex ideas into real digital experiences
+📍 France · 📧 [makhlouf.sanad@gmail.com](mailto:makhlouf.sanad@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/sanad-makhlouf)
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Technical Skills
 
-<div align="center">
+**Frontend**
+- JavaScript, TypeScript, React, HTML5, CSS3, Bootstrap, Tailwind CSS
 
-<a href="https://linkedin.com/in/sanad-makhlouf" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
+**Backend**
+- Node.js, Express.js, PHP, Laravel, Python, FastAPI
+- REST APIs, authentication, business logic, API integration
 
-</div>
+**Databases**
+- PostgreSQL, MySQL, MongoDB, SQLite
 
----
+**Tools & Engineering Practices**
+- Git, GitHub, Docker, Linux, Postman
+- Automated testing, debugging, Agile/Scrum
+- GitHub Copilot, Claude Code
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,fastapi,python,java" />
-
-### Mobile
-<img src="https://skillicons.dev/icons?i=android,react" />
-
-### Database
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,aws,linux,postman" />
-
-### AI / LLM
-<img src="https://skillicons.dev/icons?i=python" />
-
-<p>
-Ollama • OpenAI API • RAG • Prompt Engineering • JWT Authentication
-</p>
-
-### Others
-<img src="https://skillicons.dev/icons?i=cpp,qt" />
-
-</div>
+**AI Integration**
+- OpenAI API, Ollama, LLM integration, Retrieval-Augmented Generation (RAG)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🧠 AI Pharmacy Assistant — LLM Integration Platform
+### 🧠 AI Pharmacy Assistant — AI & Backend Integration
 
-### 🔹 Overview
-Developed and integrated a complete AI assistant system for a pharmacy management platform capable of answering natural language questions in French using real-time PostgreSQL business data.
+An AI assistant designed to answer questions in French using pharmacy business data stored in PostgreSQL.
 
-### ✨ Key Features
+**Key features**
+- Natural-language interaction with pharmacy data
+- Integration with local and external LLM providers
+- Context-aware responses based on business information
+- API endpoints for AI-related functionality
+- Access control and authentication integration
 
-- 🤖 Conversational AI Assistant
-- 🔍 Lightweight RAG architecture
-- 🧠 Multi-provider LLM support
-- 🔐 JWT-secured AI endpoints
-- 📦 Real-time stock & sales insights
-- 💊 Product / supplier / DLC intelligence
-- ⚡ Two-step AI pipeline with prompt correction
+**Tech stack:** React · Node.js · Express.js · PostgreSQL · Sequelize · FastAPI · Python · Ollama · OpenAI API
 
-### ⚙️ Technologies
+**Engineering focus:** API integration, backend service organization, database interaction, and orchestration of LLM requests.
 
-```txt
-React • Express.js • PostgreSQL • Sequelize
-FastAPI • Python • Ollama • OpenAI API
-JWT Authentication • REST APIs
-```
-
-### 🔥 Highlights
-
-- Built a modular AI service architecture
-- Integrated local LLM execution using Ollama
-- Added OpenAI fallback support
-- Implemented contextual database querying
-- Designed AI prompt orchestration pipelines
+> Project status, architecture, security measures, and supported use cases should be documented in the repository.
 
 ---
 
-## 🛒 Mirhome — Marketplace Backend Platform
+### 🛒 MirHome — Multi-Vendor E-commerce Marketplace
 
-### 🔹 Overview
-Developed a scalable backend for a multi-vendor e-commerce marketplace supporting vendors, customers, online payments, loyalty systems, wallet management and BNPL integrations.
+A marketplace application designed to support multiple vendors, customers, orders, and payment workflows.
 
-### ✨ Core Features
+**Key features**
+- Multi-vendor marketplace functionality
+- Product and order management
+- Payment provider integrations
+- Loyalty and wallet features
+- Invoice generation
+- Administrative functionality
 
-- 🏪 Multi-store marketplace architecture
-- 💳 Stripe / Tabby / Tamara integrations
-- 🎁 Loyalty points system
-- 👛 Wallet & balance management
-- 📦 Orders & delivery workflow
-- ⭐ Product reviews with images
-- 📄 PDF invoice generation
+**Tech stack:** Laravel · PHP · React · Inertia.js · MySQL · Stripe · Docker
 
-### ⚙️ Technologies
+**Engineering focus:** Business logic, database-backed features, payment integration, and coordination between frontend and backend.
 
-```txt
-Laravel 12 • PHP 8.2 • React • Inertia.js
-MySQL • Sanctum • Docker • REST APIs
-Stripe API • Tabby • Tamara
-```
-
-### 🔥 Highlights
-
-- Designed scalable marketplace business logic
-- Built secure payment workflows
-- Developed wallet & loyalty systems
-- Integrated Gulf regional payment providers
-- Created scalable REST API architecture
+> Document which payment integrations are implemented and tested, and distinguish working features from planned functionality.
 
 ---
 
+## 💡 How I Work
 
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sanadmakhlouf&theme=tokyonight&hide_border=true&border_radius=10" />
-
-</div>
+- **Understand the problem:** clarify requirements before choosing an implementation.
+- **Build iteratively:** break features into manageable tasks and validate behavior.
+- **Use AI thoughtfully:** accelerate exploration and implementation while reviewing generated code and testing the result.
+- **Improve continuously:** learn from debugging, feedback, and code reviews.
+- **Collaborate:** use Git and clear documentation to make development easier to follow.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎓 Education
 
-<div align="center">
+**Master's Degree — Computer Science and Mobility**  
+Université de Haute-Alsace, France · 2025–present
 
-<img src="https://github-profile-trophy.vercel.app/?username=sanadmakhlouf&theme=tokyonight&no-frame=true&row=1&column=6" />
+**Master 1 — Computer Science** · 2024–2025
 
-</div>
-
----
-
-## ✨ Visitor Count
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sanadmakhlouf&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
+**Bachelor's Degree — Computer Science** · 2023–2024
 
 ---
 
-<div align="center">
+## 🌍 Languages
 
-### 🚀 "Code. Create. Innovate."
+- French — Fluent
+- English — Professional / technical
+- Arabic — Native
+- German — Basic
 
-</div>
+---
+
+## 📬 Let's Connect
+
+I'm interested in Full Stack development opportunities, collaborative projects, and software engineering challenges.
+
+- GitHub: [@SanadMakhlouf](https://github.com/SanadMakhlouf)
+- LinkedIn: [Sanad Makhlouf](https://linkedin.com/in/sanad-makhlouf)
+- Email: [makhlouf.sanad@gmail.com](mailto:makhlouf.sanad@gmail.com)
+
