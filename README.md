@@ -2,7 +2,7 @@
 
 # Hey 👋, I'm Sanad Makhlouf
 
-### 💻 Software Engineer • Full Stack Developer • AI Integration Enthusiast  
+### 💻 Software Engineer • Full Stack Developer • AI Integration Enthusiast  • data engineer
 Passionate about building scalable web, mobile & AI-powered applications using modern technologies.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;React+%7C+Laravel+%7C+FastAPI;AI+%26+LLM+Integration;Mobile+%26+Web+Applications;Always+learning+new+technologies" />
